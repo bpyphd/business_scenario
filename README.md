@@ -1,8 +1,9 @@
 # business_scenario
 
-This analysis involves a business scenario conceived by a fellow data science professional which explores various consumer patterns and trends that are common to popular blogs that sell merchandise to promote their brands.  The characteristics of this proposed blog (a travel-oriented site known as TransWorld) are as follows:
+This analysis involves a business scenario conceived by a fellow data science professional which explores various consumer patterns and trends that are common to popular blogs that sell merchandise to promote their brands.  The characteristics of this conceptual blog (a travel-oriented site known as TransWorld) are as follows:
 
-* Visitors to TransWorld can purchase materials covering an array of travel related topics, either in e-book ($8) or video format ($80).
+* Visitors to TransWorld can purchase materials covering an array of travel related topics, either in 
+  e-book ($8) or video format ($80).
 
 * Articles and stories cover all 6 continents.
 
