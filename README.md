@@ -12,3 +12,5 @@ This data analysis focused on 8 countries from which the TransWorld blog regular
 Key areas of interest in this analysis include patterns in sales, popularity of travel topics, and Internet sources that visitors used to discover the TransWorld blog.
 
 This data analysis was conducted using Bash, SQL and Python.
+
+To learn about my other research projects, please visit www.barrypyoung.com.
